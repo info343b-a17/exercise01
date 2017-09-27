@@ -16,6 +16,7 @@ npm install -g jest
 You will also need to install the test dependencies listed in the `package.json` file:
 
 ```bash
+npm link jest  # make jest available first
 npm install
 ```
 
