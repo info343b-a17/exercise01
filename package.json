@@ -12,12 +12,12 @@
     "@types/jest": "^20.0.2",
     "cheerio": "^1.0.0-rc.2",
     "htmllint": "^0.6.0",
+    "jest": "^21.2.0",
     "inline-css": "^2.2.2",
     "stylelint": "^8.0.0",
     "stylelint-config-recommended": "^1.0.0"
   },
   "stylelint": {
     "extends": "stylelint-config-recommended"
-  },
-  "dependencies": {}
+  }
 }
